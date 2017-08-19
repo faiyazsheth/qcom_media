@@ -48,7 +48,6 @@ This module contains H264 video decoder utilities and helper routines.
 #include "qtypes.h"
 #include "OMX_Core.h"
 #include "OMX_QCOMExtns.h"
-
 #define STD_MIN(x,y) (((x) < (y)) ? (x) : (y))
 
 #define OMX_CORE_720P_HEIGHT 720
